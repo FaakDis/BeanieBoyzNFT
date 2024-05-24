@@ -12,7 +12,7 @@ This project showcases an NFT Collection available on the MAGMA ONYX blockchain.
 BeanieBoyzNFT is a curated set of 1/1 NFTs, each representing a unique piece of digital art. These one-of-a-kind digital assets are verifiably scarce and immutably recorded on the blockchain. The collection was set to a supply of 300 NFTs for testnet purposes. Mainnet supply not define. You can back/view this project on [Magmify](https://magmify.xyz/projects/BBNFT).
 
 ## Website
-Visit our website: [faakdis.com]([https://www.faakdis.com/beanieboyznft])
+Visit our website: [faakdis.com](https://www.faakdis.com/beanieboyznft)
 
 The website allows you to:
 - Learn about the artists and the stories behind the NFT collection
