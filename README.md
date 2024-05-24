@@ -6,10 +6,6 @@ This project showcases an NFT Collection available on the MAGMA ONYX blockchain.
 - [Introduction](#introduction)
 - [Website](#website)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -30,55 +26,7 @@ The website allows you to:
 - **Secure Transactions:** Safe and secure transactions through smart contracts.
 - **Responsive Design:** Accessible on both desktop and mobile devices.
 
-## Installation
-To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FaakDis/UniqueNFTCollection.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd UniqueNFTCollection
-   ```
-
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-After installing the dependencies, start the development server:
-
-```bash
-npm start
-```
-
-Open your browser and go to `http://localhost:3000` to see the project in action.
-
-## Contributing
-We welcome contributions from the community! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
-Please make sure your code follows our [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries or feedback, please contact us at [faakdis365@gmail.com](mailto:faakdis365@gmail.com).
